@@ -1,1 +1,2 @@
 # gitsda
+LINIJAK DODANA
